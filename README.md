@@ -1,2 +1,2 @@
 
-front end for :https://begoo.com
+front end for :https://begoo.me
